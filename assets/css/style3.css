@@ -1,0 +1,22 @@
+.card{
+    height: 600px;
+    width: 600px;
+    
+    
+}
+
+.card .parte3{
+    display: flex;
+    
+    background-color: aqua;
+    border: solid 2px;
+    justify-content: center;
+    align-items: center;
+}
+.resto {
+    display: flex;
+    flex-direction: column;
+    border: solid 2px;
+    text-align: center;
+    
+}

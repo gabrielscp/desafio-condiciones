@@ -1,0 +1,32 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: auto;
+    border: 1px solid rgb(15, 12, 13);
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    border: solid 2px;
+    border-color: blueviolet;
+    background-color: aquamarine;
+    
+}
+
+.card img{
+    width: 250px;
+    height: 250px;
+    
+}
+h2{
+    text-align: center;
+}
+.button{
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
